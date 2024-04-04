@@ -1,7 +1,9 @@
-// import static org.junit.jupiter.api.Assertions.assertEquals;
+### `if`, `else if` and `else`
+This is an important, if not the most important structures used in programming.
+Officially we call this structure as `conditional branching`, which gives the control to the code block depending on the evaluation of the condition.
+This heavily relies on the `true` and `false` values
 
-// import org.junit.jupiter.api.Test;
-
+```java
 public class Main {
   public static void main(String[] args) {
     // System.out.println("Hello world!");
@@ -34,9 +36,5 @@ public class Main {
     }
 
   }
-
-  // @Test
-  // void addition() {
-  // assertEquals(2, 1 + 1);
-  // }
 }
+```
