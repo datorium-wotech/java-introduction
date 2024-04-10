@@ -39,7 +39,7 @@ Odd or even number
     }
 ```
 
-Ducking and counting from 10 to 0
+Ducking and counting from 10 to 1
 ```java
 
     int amountOfTimesToDuck = 10;
